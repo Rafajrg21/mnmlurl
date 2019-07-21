@@ -1,4 +1,4 @@
-const endpoint = 'https://www.jsonstore.io/6b6e3cd07f3aaecd8df25ab95875eb2462f00a7614f7205c2d5dc5229896ea98'
+const endpoint = 'https://www.jsonstore.io/851f162e693b76b020480ebd3ef1da5653f02dfa98f7efae9a75774722a24e41'
 const ebox = document.getElementById('erbox')
 const fetchJSON = (a) => {
 	const f = new XMLHttpRequest()
